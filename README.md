@@ -9,6 +9,8 @@
 [<img align="left" alt="Image of codepen logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 [<img align="left" alt="Image of Gmail logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
+<br />
+
 ---
 
 - 🔭 I’m currently working on React projects at [B2W Digital](https://ri.b2w.digital/en) 
