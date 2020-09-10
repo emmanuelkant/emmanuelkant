@@ -1,4 +1,4 @@
-### Hi there, welcome to my profile 👋
+### Hi there, my name is [Emmanuel Kant Duarte][website] and welcome to my profile 👋
 
 #### Connect with me:
 
@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with any problem you have. I love to be useful for someone, so if you need help at any problem that envolve computers and numbers, let me know.
 - 💬 Ask me about everthing you want to know about me. I love to make new friends and you could be one.
 - 📫 How to reach me: The best way to contact me is by email, I always read it every single day :)
-- ⚡ Fun facts: I love games, my favorite is The Kingdom Hearts Serie. 
+- ⚡ Fun facts: I love video games, my favorite is The Kingdom Hearts Serie. 
 
 
 [website]: https://emmkant.com
