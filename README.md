@@ -1,9 +1,15 @@
 ### Hi there, welcome to my profile 👋
 
-![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emmanuel-kant-duarte/)
-![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/emmanuelkantf)
-![Youtube](https://img.shields.io/badge/-Youtube-c14438?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCKvqGl-t1u5DgH7BGshEq0w)
-![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emmanuelkant.duarte@gmail.com)
+#### Connect with me:
+
+[<img align="left" alt="Image of linkedin logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Image of Earth Planet" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Image of twitter bird" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Image of YouTube logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Image of codepen logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="Image of Gmail logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+---
 
 - 🔭 I’m currently working on React projects at [B2W Digital](https://ri.b2w.digital/en) 
 - 🌱 I’m currently learning about how to use the AWS services indeed.
@@ -12,3 +18,11 @@
 - 💬 Ask me about everthing you want to know about me. I love to make new friends and you could be one.
 - 📫 How to reach me: The best way to contact me is by email, I always read it every single day :)
 - ⚡ Fun facts: I love games, my favorite is The Kingdom Hearts Serie. 
+
+
+[website]: https://emmkant.com
+[twitter]: https://twitter.com/emmanuelkantf
+[youtube]: https://www.youtube.com/channel/UCKvqGl-t1u5DgH7BGshEq0w
+[linkedin]: https://linkedin.com/in/emmanuel-kant-duarte
+[email]: mailto:emmanuelkant.duarte@gmail.com
+[codepen]: https://codepen.io/EmmanuelKant
