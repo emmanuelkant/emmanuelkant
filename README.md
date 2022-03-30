@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 I’m currently working on React projects at [Growth-X](https://growth-x.com/) 
+- 🔭 I’m currently working on Frontend projects at [Wunderman Thompson Commerce](https://www.wundermanthompson.com/expertise/commerce) 
 - 🌱 I’m currently learning about how to use the AWS services indeed.
 - 👯 I’m looking to collaborate on Javascript projects, I not consider myself as a Full Stack but I like the both sides of the coin.
 - 🤔 I’m looking for help with any problem you have. I love to be useful for someone, so if you need help at any problem that envolve computers and numbers, let me know.
